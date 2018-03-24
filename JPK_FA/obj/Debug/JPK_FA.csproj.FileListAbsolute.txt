@@ -1,0 +1,42 @@
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\bin\Debug\JPK_FA.exe.config
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.csprojResolveAssemblyReference.cache
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Form1.resources
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Properties.Resources.resources
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.csproj.GenerateResource.Cache
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\bin\Debug\JPK_FA.exe
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\bin\Debug\JPK_FA.pdb
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.exe
+c:\users\szymon\documents\visual studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.pdb
+F:\C#\JPK_FA\JPK_FA\bin\Debug\JPK_FA.exe.config
+F:\C#\JPK_FA\JPK_FA\obj\Debug\JPK_FA.exe
+F:\C#\JPK_FA\JPK_FA\obj\Debug\JPK_FA.pdb
+F:\C#\JPK_FA\JPK_FA\bin\Debug\JPK_FA.exe
+F:\C#\JPK_FA\JPK_FA\bin\Debug\JPK_FA.pdb
+F:\C#\JPK_FA\JPK_FA\obj\Debug\JPK_FA.csprojResolveAssemblyReference.cache
+F:\C#\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Form1.resources
+F:\C#\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Properties.Resources.resources
+F:\C#\JPK_FA\JPK_FA\obj\Debug\JPK_FA.csproj.GenerateResource.Cache
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\bin\Debug\JPK_FA.exe.config
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.exe
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.pdb
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.csprojResolveAssemblyReference.cache
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Form1.resources
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Form2.resources
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.Properties.Resources.resources
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\obj\Debug\JPK_FA.csproj.GenerateResource.Cache
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\bin\Debug\JPK_FA.exe
+C:\Users\Borowy\Documents\Visual Studio 2015\Projects\JPK_FA\JPK_FA\bin\Debug\JPK_FA.pdb
+C:\Users\Szymon\Desktop\z pena\C#\JPK_FA_SQL_mail\JPK_FA\bin\Debug\JPK_FA.exe.config
+C:\Users\Szymon\Desktop\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.exe
+C:\Users\Szymon\Desktop\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.pdb
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\bin\Debug\JPK_FA.exe.config
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\bin\Debug\JPK_FA.exe
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\bin\Debug\JPK_FA.pdb
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.csprojResolveAssemblyReference.cache
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.Form1.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.Form2.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.Properties.Resources.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.csproj.GenerateResource.Cache
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.csproj.CoreCompileInputs.cache
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.exe
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\JPK_FA_SQL_mail\JPK_FA\obj\Debug\JPK_FA.pdb
